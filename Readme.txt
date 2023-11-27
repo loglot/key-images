@@ -192,3 +192,5 @@ Everspace
 Pylon Rogue
 The Church in the darkness
 Sword n' Board
+Yet Another Collectathon
+Yet Another 2d Platformer
